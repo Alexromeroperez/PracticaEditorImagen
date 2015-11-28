@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PracticaEditorImagen</string>
+    <string name="rotarIzq">Rotar a la izquierda</string>
+    <string name="rotarDrc">Rotar a la derecha</string>
+    <string name="grises">Blanco y negro</string>
+    <string name="original">Original</string>
+</resources>

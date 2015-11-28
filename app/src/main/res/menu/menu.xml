@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/giroIzq"
+        android:title="@string/rotarIzq"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/giroDer"
+        android:title="@string/rotarDrc"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/gris"
+        android:title="@string/grises"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/original"
+        android:title="@string/original"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+</menu>
